@@ -12,6 +12,7 @@
 		410552422B919C8D00A4F2EA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 410552412B919C8D00A4F2EA /* Assets.xcassets */; };
 		410552462B919C8D00A4F2EA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 410552452B919C8D00A4F2EA /* Preview Assets.xcassets */; };
 		4127630B2BB122B0001E1034 /* MySFIconsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4127630A2BB122B0001E1034 /* MySFIconsView.swift */; };
+		4127630D2BB23682001E1034 /* MyImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4127630C2BB23682001E1034 /* MyImageView.swift */; };
 		412C1D582BAD2C5C007B61CC /* MyGradientColorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 412C1D572BAD2C5C007B61CC /* MyGradientColorView.swift */; };
 		413F0A712B92681D0026AFB1 /* TextLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 413F0A702B92681D0026AFB1 /* TextLabel.swift */; };
 		41C7879E2BA94241001992F7 /* MyColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41C7879D2BA94241001992F7 /* MyColors.swift */; };
@@ -26,6 +27,7 @@
 		410552432B919C8D00A4F2EA /* FirstSwiftUI.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = FirstSwiftUI.entitlements; sourceTree = "<group>"; };
 		410552452B919C8D00A4F2EA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4127630A2BB122B0001E1034 /* MySFIconsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MySFIconsView.swift; sourceTree = "<group>"; };
+		4127630C2BB23682001E1034 /* MyImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyImageView.swift; sourceTree = "<group>"; };
 		412C1D572BAD2C5C007B61CC /* MyGradientColorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyGradientColorView.swift; sourceTree = "<group>"; };
 		413F0A702B92681D0026AFB1 /* TextLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextLabel.swift; sourceTree = "<group>"; };
 		41C7879D2BA94241001992F7 /* MyColors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyColors.swift; sourceTree = "<group>"; };
@@ -69,6 +71,7 @@
 				41C7879D2BA94241001992F7 /* MyColors.swift */,
 				412C1D572BAD2C5C007B61CC /* MyGradientColorView.swift */,
 				4127630A2BB122B0001E1034 /* MySFIconsView.swift */,
+				4127630C2BB23682001E1034 /* MyImageView.swift */,
 				410552412B919C8D00A4F2EA /* Assets.xcassets */,
 				410552432B919C8D00A4F2EA /* FirstSwiftUI.entitlements */,
 				410552442B919C8D00A4F2EA /* Preview Content */,
@@ -154,6 +157,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4127630D2BB23682001E1034 /* MyImageView.swift in Sources */,
 				412C1D582BAD2C5C007B61CC /* MyGradientColorView.swift in Sources */,
 				4127630B2BB122B0001E1034 /* MySFIconsView.swift in Sources */,
 				41C7879E2BA94241001992F7 /* MyColors.swift in Sources */,
