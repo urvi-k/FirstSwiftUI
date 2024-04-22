@@ -16,6 +16,7 @@
 		4127630D2BB23682001E1034 /* MyImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4127630C2BB23682001E1034 /* MyImageView.swift */; };
 		412C1D582BAD2C5C007B61CC /* MyGradientColorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 412C1D572BAD2C5C007B61CC /* MyGradientColorView.swift */; };
 		413F0A712B92681D0026AFB1 /* TextLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 413F0A702B92681D0026AFB1 /* TextLabel.swift */; };
+		4177463C2BD59F6500ABD83D /* MyBackgroundAndOverlay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4177463B2BD59F6500ABD83D /* MyBackgroundAndOverlay.swift */; };
 		41C7879E2BA94241001992F7 /* MyColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41C7879D2BA94241001992F7 /* MyColors.swift */; };
 		41C978A32B9529CD00D3AE07 /* MyShapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41C978A22B9529CC00D3AE07 /* MyShapes.swift */; };
 /* End PBXBuildFile section */
@@ -32,6 +33,7 @@
 		4127630C2BB23682001E1034 /* MyImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyImageView.swift; sourceTree = "<group>"; };
 		412C1D572BAD2C5C007B61CC /* MyGradientColorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyGradientColorView.swift; sourceTree = "<group>"; };
 		413F0A702B92681D0026AFB1 /* TextLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextLabel.swift; sourceTree = "<group>"; };
+		4177463B2BD59F6500ABD83D /* MyBackgroundAndOverlay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyBackgroundAndOverlay.swift; sourceTree = "<group>"; };
 		41C7879D2BA94241001992F7 /* MyColors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyColors.swift; sourceTree = "<group>"; };
 		41C978A22B9529CC00D3AE07 /* MyShapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyShapes.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -75,6 +77,7 @@
 				4127630A2BB122B0001E1034 /* MySFIconsView.swift */,
 				4127630C2BB23682001E1034 /* MyImageView.swift */,
 				410D7E5A2BB5294F00F052FB /* MuFramesView.swift */,
+				4177463B2BD59F6500ABD83D /* MyBackgroundAndOverlay.swift */,
 				410552412B919C8D00A4F2EA /* Assets.xcassets */,
 				410552432B919C8D00A4F2EA /* FirstSwiftUI.entitlements */,
 				410552442B919C8D00A4F2EA /* Preview Content */,
@@ -164,6 +167,7 @@
 				412C1D582BAD2C5C007B61CC /* MyGradientColorView.swift in Sources */,
 				4127630B2BB122B0001E1034 /* MySFIconsView.swift in Sources */,
 				41C7879E2BA94241001992F7 /* MyColors.swift in Sources */,
+				4177463C2BD59F6500ABD83D /* MyBackgroundAndOverlay.swift in Sources */,
 				410D7E5B2BB5294F00F052FB /* MuFramesView.swift in Sources */,
 				410552402B919C8C00A4F2EA /* ContentView.swift in Sources */,
 				413F0A712B92681D0026AFB1 /* TextLabel.swift in Sources */,
