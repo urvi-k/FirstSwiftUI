@@ -20,6 +20,7 @@
 		4177463E2BD6E66500ABD83D /* MyStackViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4177463D2BD6E66500ABD83D /* MyStackViews.swift */; };
 		417746402BD75DCB00ABD83D /* MyPadding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4177463F2BD75DCB00ABD83D /* MyPadding.swift */; };
 		417746422BD7646900ABD83D /* MySpacer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 417746412BD7646900ABD83D /* MySpacer.swift */; };
+		417746442BD859D400ABD83D /* MyInitializers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 417746432BD859D400ABD83D /* MyInitializers.swift */; };
 		41C7879E2BA94241001992F7 /* MyColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41C7879D2BA94241001992F7 /* MyColors.swift */; };
 		41C978A32B9529CD00D3AE07 /* MyShapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41C978A22B9529CC00D3AE07 /* MyShapes.swift */; };
 /* End PBXBuildFile section */
@@ -40,6 +41,7 @@
 		4177463D2BD6E66500ABD83D /* MyStackViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyStackViews.swift; sourceTree = "<group>"; };
 		4177463F2BD75DCB00ABD83D /* MyPadding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyPadding.swift; sourceTree = "<group>"; };
 		417746412BD7646900ABD83D /* MySpacer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MySpacer.swift; sourceTree = "<group>"; };
+		417746432BD859D400ABD83D /* MyInitializers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyInitializers.swift; sourceTree = "<group>"; };
 		41C7879D2BA94241001992F7 /* MyColors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyColors.swift; sourceTree = "<group>"; };
 		41C978A22B9529CC00D3AE07 /* MyShapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyShapes.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -87,6 +89,7 @@
 				4177463D2BD6E66500ABD83D /* MyStackViews.swift */,
 				4177463F2BD75DCB00ABD83D /* MyPadding.swift */,
 				417746412BD7646900ABD83D /* MySpacer.swift */,
+				417746432BD859D400ABD83D /* MyInitializers.swift */,
 				410552412B919C8D00A4F2EA /* Assets.xcassets */,
 				410552432B919C8D00A4F2EA /* FirstSwiftUI.entitlements */,
 				410552442B919C8D00A4F2EA /* Preview Content */,
@@ -180,6 +183,7 @@
 				41C7879E2BA94241001992F7 /* MyColors.swift in Sources */,
 				4177463C2BD59F6500ABD83D /* MyBackgroundAndOverlay.swift in Sources */,
 				410D7E5B2BB5294F00F052FB /* MuFramesView.swift in Sources */,
+				417746442BD859D400ABD83D /* MyInitializers.swift in Sources */,
 				410552402B919C8C00A4F2EA /* ContentView.swift in Sources */,
 				413F0A712B92681D0026AFB1 /* TextLabel.swift in Sources */,
 				4105523E2B919C8C00A4F2EA /* FirstSwiftUIApp.swift in Sources */,
