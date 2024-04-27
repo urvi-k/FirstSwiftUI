@@ -14,6 +14,14 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Hello, world!")
+            Button("Go", action: {
+                MyLazyStackAndScrollView()
+            })
+            .font(.largeTitle)
+            .foregroundColor(.white)
+            .padding(EdgeInsets(top: 10, leading: 50, bottom: 10, trailing: 50))
+            .background(.green)
+            .cornerRadius(10)
         }
         .padding()
     }

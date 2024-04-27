@@ -22,6 +22,7 @@
 		417746422BD7646900ABD83D /* MySpacer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 417746412BD7646900ABD83D /* MySpacer.swift */; };
 		417746442BD859D400ABD83D /* MyInitializers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 417746432BD859D400ABD83D /* MyInitializers.swift */; };
 		417746462BD996DD00ABD83D /* myForeach.swift in Sources */ = {isa = PBXBuildFile; fileRef = 417746452BD996DD00ABD83D /* myForeach.swift */; };
+		417746482BDB0E2100ABD83D /* MyLazyStackAndScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 417746472BDB0E2100ABD83D /* MyLazyStackAndScrollView.swift */; };
 		41C7879E2BA94241001992F7 /* MyColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41C7879D2BA94241001992F7 /* MyColors.swift */; };
 		41C978A32B9529CD00D3AE07 /* MyShapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41C978A22B9529CC00D3AE07 /* MyShapes.swift */; };
 /* End PBXBuildFile section */
@@ -44,6 +45,7 @@
 		417746412BD7646900ABD83D /* MySpacer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MySpacer.swift; sourceTree = "<group>"; };
 		417746432BD859D400ABD83D /* MyInitializers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyInitializers.swift; sourceTree = "<group>"; };
 		417746452BD996DD00ABD83D /* myForeach.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = myForeach.swift; sourceTree = "<group>"; };
+		417746472BDB0E2100ABD83D /* MyLazyStackAndScrollView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyLazyStackAndScrollView.swift; sourceTree = "<group>"; };
 		41C7879D2BA94241001992F7 /* MyColors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyColors.swift; sourceTree = "<group>"; };
 		41C978A22B9529CC00D3AE07 /* MyShapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyShapes.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -92,10 +94,11 @@
 				4177463F2BD75DCB00ABD83D /* MyPadding.swift */,
 				417746412BD7646900ABD83D /* MySpacer.swift */,
 				417746432BD859D400ABD83D /* MyInitializers.swift */,
+				417746452BD996DD00ABD83D /* myForeach.swift */,
+				417746472BDB0E2100ABD83D /* MyLazyStackAndScrollView.swift */,
 				410552412B919C8D00A4F2EA /* Assets.xcassets */,
 				410552432B919C8D00A4F2EA /* FirstSwiftUI.entitlements */,
 				410552442B919C8D00A4F2EA /* Preview Content */,
-				417746452BD996DD00ABD83D /* myForeach.swift */,
 			);
 			path = FirstSwiftUI;
 			sourceTree = "<group>";
@@ -180,6 +183,7 @@
 			files = (
 				4127630D2BB23682001E1034 /* MyImageView.swift in Sources */,
 				417746422BD7646900ABD83D /* MySpacer.swift in Sources */,
+				417746482BDB0E2100ABD83D /* MyLazyStackAndScrollView.swift in Sources */,
 				4177463E2BD6E66500ABD83D /* MyStackViews.swift in Sources */,
 				412C1D582BAD2C5C007B61CC /* MyGradientColorView.swift in Sources */,
 				417746462BD996DD00ABD83D /* myForeach.swift in Sources */,
