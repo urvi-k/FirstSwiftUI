@@ -14,6 +14,7 @@
 		410D7E5B2BB5294F00F052FB /* MuFramesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 410D7E5A2BB5294F00F052FB /* MuFramesView.swift */; };
 		410FC3982BDE988900D568D0 /* MyExtractFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 410FC3972BDE988900D568D0 /* MyExtractFunctions.swift */; };
 		410FC39A2BDE9F8D00D568D0 /* MyExtractSubViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 410FC3992BDE9F8D00D568D0 /* MyExtractSubViews.swift */; };
+		410FC39C2BDF00F700D568D0 /* MyBinding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 410FC39B2BDF00F700D568D0 /* MyBinding.swift */; };
 		4127630B2BB122B0001E1034 /* MySFIconsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4127630A2BB122B0001E1034 /* MySFIconsView.swift */; };
 		4127630D2BB23682001E1034 /* MyImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4127630C2BB23682001E1034 /* MyImageView.swift */; };
 		412C1D582BAD2C5C007B61CC /* MyGradientColorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 412C1D572BAD2C5C007B61CC /* MyGradientColorView.swift */; };
@@ -43,6 +44,7 @@
 		410D7E5A2BB5294F00F052FB /* MuFramesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MuFramesView.swift; sourceTree = "<group>"; };
 		410FC3972BDE988900D568D0 /* MyExtractFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyExtractFunctions.swift; sourceTree = "<group>"; };
 		410FC3992BDE9F8D00D568D0 /* MyExtractSubViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyExtractSubViews.swift; sourceTree = "<group>"; };
+		410FC39B2BDF00F700D568D0 /* MyBinding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyBinding.swift; sourceTree = "<group>"; };
 		4127630A2BB122B0001E1034 /* MySFIconsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MySFIconsView.swift; sourceTree = "<group>"; };
 		4127630C2BB23682001E1034 /* MyImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyImageView.swift; sourceTree = "<group>"; };
 		412C1D572BAD2C5C007B61CC /* MyGradientColorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyGradientColorView.swift; sourceTree = "<group>"; };
@@ -114,6 +116,7 @@
 				4177464D2BDDCE6A00ABD83D /* MyButton.swift */,
 				410FC3972BDE988900D568D0 /* MyExtractFunctions.swift */,
 				410FC3992BDE9F8D00D568D0 /* MyExtractSubViews.swift */,
+				410FC39B2BDF00F700D568D0 /* MyBinding.swift */,
 				410552412B919C8D00A4F2EA /* Assets.xcassets */,
 				410552432B919C8D00A4F2EA /* FirstSwiftUI.entitlements */,
 				410552442B919C8D00A4F2EA /* Preview Content */,
@@ -205,6 +208,7 @@
 				417746482BDB0E2100ABD83D /* MyLazyStackAndScrollView.swift in Sources */,
 				4177463E2BD6E66500ABD83D /* MyStackViews.swift in Sources */,
 				412C1D582BAD2C5C007B61CC /* MyGradientColorView.swift in Sources */,
+				410FC39C2BDF00F700D568D0 /* MyBinding.swift in Sources */,
 				417746462BD996DD00ABD83D /* myForeach.swift in Sources */,
 				4177464A2BDCAB8100ABD83D /* MyGridView.swift in Sources */,
 				4127630B2BB122B0001E1034 /* MySFIconsView.swift in Sources */,
