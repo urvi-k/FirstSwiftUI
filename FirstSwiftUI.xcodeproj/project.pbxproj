@@ -25,6 +25,7 @@
 		417746482BDB0E2100ABD83D /* MyLazyStackAndScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 417746472BDB0E2100ABD83D /* MyLazyStackAndScrollView.swift */; };
 		4177464A2BDCAB8100ABD83D /* MyGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 417746492BDCAB8100ABD83D /* MyGridView.swift */; };
 		4177464C2BDD3C0700ABD83D /* MySafeArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4177464B2BDD3C0700ABD83D /* MySafeArea.swift */; };
+		4177464E2BDDCE6A00ABD83D /* MyButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4177464D2BDDCE6A00ABD83D /* MyButton.swift */; };
 		41C7879E2BA94241001992F7 /* MyColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41C7879D2BA94241001992F7 /* MyColors.swift */; };
 		41C978A32B9529CD00D3AE07 /* MyShapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41C978A22B9529CC00D3AE07 /* MyShapes.swift */; };
 /* End PBXBuildFile section */
@@ -50,6 +51,7 @@
 		417746472BDB0E2100ABD83D /* MyLazyStackAndScrollView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyLazyStackAndScrollView.swift; sourceTree = "<group>"; };
 		417746492BDCAB8100ABD83D /* MyGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyGridView.swift; sourceTree = "<group>"; };
 		4177464B2BDD3C0700ABD83D /* MySafeArea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MySafeArea.swift; sourceTree = "<group>"; };
+		4177464D2BDDCE6A00ABD83D /* MyButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyButton.swift; sourceTree = "<group>"; };
 		41C7879D2BA94241001992F7 /* MyColors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyColors.swift; sourceTree = "<group>"; };
 		41C978A22B9529CC00D3AE07 /* MyShapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyShapes.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -102,6 +104,7 @@
 				417746472BDB0E2100ABD83D /* MyLazyStackAndScrollView.swift */,
 				417746492BDCAB8100ABD83D /* MyGridView.swift */,
 				4177464B2BDD3C0700ABD83D /* MySafeArea.swift */,
+				4177464D2BDDCE6A00ABD83D /* MyButton.swift */,
 				410552412B919C8D00A4F2EA /* Assets.xcassets */,
 				410552432B919C8D00A4F2EA /* FirstSwiftUI.entitlements */,
 				410552442B919C8D00A4F2EA /* Preview Content */,
@@ -203,6 +206,7 @@
 				4177464C2BDD3C0700ABD83D /* MySafeArea.swift in Sources */,
 				413F0A712B92681D0026AFB1 /* TextLabel.swift in Sources */,
 				4105523E2B919C8C00A4F2EA /* FirstSwiftUIApp.swift in Sources */,
+				4177464E2BDDCE6A00ABD83D /* MyButton.swift in Sources */,
 				41C978A32B9529CD00D3AE07 /* MyShapes.swift in Sources */,
 				417746402BD75DCB00ABD83D /* MyPadding.swift in Sources */,
 			);
