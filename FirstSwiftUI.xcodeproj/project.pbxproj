@@ -19,6 +19,7 @@
 		4127630D2BB23682001E1034 /* MyImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4127630C2BB23682001E1034 /* MyImageView.swift */; };
 		412C1D582BAD2C5C007B61CC /* MyGradientColorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 412C1D572BAD2C5C007B61CC /* MyGradientColorView.swift */; };
 		413F0A712B92681D0026AFB1 /* TextLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 413F0A702B92681D0026AFB1 /* TextLabel.swift */; };
+		417115AA2BDFECDA00D2D6CA /* MyAnimations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 417115A92BDFECDA00D2D6CA /* MyAnimations.swift */; };
 		4177463C2BD59F6500ABD83D /* MyBackgroundAndOverlay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4177463B2BD59F6500ABD83D /* MyBackgroundAndOverlay.swift */; };
 		4177463E2BD6E66500ABD83D /* MyStackViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4177463D2BD6E66500ABD83D /* MyStackViews.swift */; };
 		417746402BD75DCB00ABD83D /* MyPadding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4177463F2BD75DCB00ABD83D /* MyPadding.swift */; };
@@ -49,6 +50,7 @@
 		4127630C2BB23682001E1034 /* MyImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyImageView.swift; sourceTree = "<group>"; };
 		412C1D572BAD2C5C007B61CC /* MyGradientColorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyGradientColorView.swift; sourceTree = "<group>"; };
 		413F0A702B92681D0026AFB1 /* TextLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextLabel.swift; sourceTree = "<group>"; };
+		417115A92BDFECDA00D2D6CA /* MyAnimations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyAnimations.swift; sourceTree = "<group>"; };
 		4177463B2BD59F6500ABD83D /* MyBackgroundAndOverlay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyBackgroundAndOverlay.swift; sourceTree = "<group>"; };
 		4177463D2BD6E66500ABD83D /* MyStackViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyStackViews.swift; sourceTree = "<group>"; };
 		4177463F2BD75DCB00ABD83D /* MyPadding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyPadding.swift; sourceTree = "<group>"; };
@@ -117,6 +119,7 @@
 				410FC3972BDE988900D568D0 /* MyExtractFunctions.swift */,
 				410FC3992BDE9F8D00D568D0 /* MyExtractSubViews.swift */,
 				410FC39B2BDF00F700D568D0 /* MyBinding.swift */,
+				417115A92BDFECDA00D2D6CA /* MyAnimations.swift */,
 				410552412B919C8D00A4F2EA /* Assets.xcassets */,
 				410552432B919C8D00A4F2EA /* FirstSwiftUI.entitlements */,
 				410552442B919C8D00A4F2EA /* Preview Content */,
@@ -216,6 +219,7 @@
 				4177463C2BD59F6500ABD83D /* MyBackgroundAndOverlay.swift in Sources */,
 				410D7E5B2BB5294F00F052FB /* MuFramesView.swift in Sources */,
 				417746442BD859D400ABD83D /* MyInitializers.swift in Sources */,
+				417115AA2BDFECDA00D2D6CA /* MyAnimations.swift in Sources */,
 				410552402B919C8C00A4F2EA /* ContentView.swift in Sources */,
 				4177464C2BDD3C0700ABD83D /* MySafeArea.swift in Sources */,
 				410FC39A2BDE9F8D00D568D0 /* MyExtractSubViews.swift in Sources */,
