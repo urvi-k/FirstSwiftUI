@@ -31,6 +31,7 @@
 		4177464C2BDD3C0700ABD83D /* MySafeArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4177464B2BDD3C0700ABD83D /* MySafeArea.swift */; };
 		4177464E2BDDCE6A00ABD83D /* MyButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4177464D2BDDCE6A00ABD83D /* MyButton.swift */; };
 		417746502BDDF27300ABD83D /* MyStates.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4177464F2BDDF27300ABD83D /* MyStates.swift */; };
+		41BDF2802BE67801004DAEC8 /* MyAnimationCurves.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41BDF27F2BE67801004DAEC8 /* MyAnimationCurves.swift */; };
 		41C7879E2BA94241001992F7 /* MyColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41C7879D2BA94241001992F7 /* MyColors.swift */; };
 		41C978A32B9529CD00D3AE07 /* MyShapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41C978A22B9529CC00D3AE07 /* MyShapes.swift */; };
 /* End PBXBuildFile section */
@@ -62,6 +63,7 @@
 		4177464B2BDD3C0700ABD83D /* MySafeArea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MySafeArea.swift; sourceTree = "<group>"; };
 		4177464D2BDDCE6A00ABD83D /* MyButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyButton.swift; sourceTree = "<group>"; };
 		4177464F2BDDF27300ABD83D /* MyStates.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyStates.swift; sourceTree = "<group>"; };
+		41BDF27F2BE67801004DAEC8 /* MyAnimationCurves.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyAnimationCurves.swift; sourceTree = "<group>"; };
 		41C7879D2BA94241001992F7 /* MyColors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyColors.swift; sourceTree = "<group>"; };
 		41C978A22B9529CC00D3AE07 /* MyShapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyShapes.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -120,6 +122,7 @@
 				410FC3992BDE9F8D00D568D0 /* MyExtractSubViews.swift */,
 				410FC39B2BDF00F700D568D0 /* MyBinding.swift */,
 				417115A92BDFECDA00D2D6CA /* MyAnimations.swift */,
+				41BDF27F2BE67801004DAEC8 /* MyAnimationCurves.swift */,
 				410552412B919C8D00A4F2EA /* Assets.xcassets */,
 				410552432B919C8D00A4F2EA /* FirstSwiftUI.entitlements */,
 				410552442B919C8D00A4F2EA /* Preview Content */,
@@ -228,6 +231,7 @@
 				4105523E2B919C8C00A4F2EA /* FirstSwiftUIApp.swift in Sources */,
 				4177464E2BDDCE6A00ABD83D /* MyButton.swift in Sources */,
 				41C978A32B9529CD00D3AE07 /* MyShapes.swift in Sources */,
+				41BDF2802BE67801004DAEC8 /* MyAnimationCurves.swift in Sources */,
 				417746402BD75DCB00ABD83D /* MyPadding.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
