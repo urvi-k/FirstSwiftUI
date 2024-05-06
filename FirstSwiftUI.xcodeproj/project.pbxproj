@@ -34,6 +34,7 @@
 		41BDF2802BE67801004DAEC8 /* MyAnimationCurves.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41BDF27F2BE67801004DAEC8 /* MyAnimationCurves.swift */; };
 		41BDF2822BE6C436004DAEC8 /* MyTransitionAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41BDF2812BE6C436004DAEC8 /* MyTransitionAnimation.swift */; };
 		41BDF2842BE8353D004DAEC8 /* MySheets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41BDF2832BE8353D004DAEC8 /* MySheets.swift */; };
+		41BDF2862BE87791004DAEC8 /* MyPopoverView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41BDF2852BE87791004DAEC8 /* MyPopoverView.swift */; };
 		41C7879E2BA94241001992F7 /* MyColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41C7879D2BA94241001992F7 /* MyColors.swift */; };
 		41C978A32B9529CD00D3AE07 /* MyShapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41C978A22B9529CC00D3AE07 /* MyShapes.swift */; };
 /* End PBXBuildFile section */
@@ -68,6 +69,7 @@
 		41BDF27F2BE67801004DAEC8 /* MyAnimationCurves.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyAnimationCurves.swift; sourceTree = "<group>"; };
 		41BDF2812BE6C436004DAEC8 /* MyTransitionAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTransitionAnimation.swift; sourceTree = "<group>"; };
 		41BDF2832BE8353D004DAEC8 /* MySheets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MySheets.swift; sourceTree = "<group>"; };
+		41BDF2852BE87791004DAEC8 /* MyPopoverView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyPopoverView.swift; sourceTree = "<group>"; };
 		41C7879D2BA94241001992F7 /* MyColors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyColors.swift; sourceTree = "<group>"; };
 		41C978A22B9529CC00D3AE07 /* MyShapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyShapes.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -129,6 +131,7 @@
 				41BDF27F2BE67801004DAEC8 /* MyAnimationCurves.swift */,
 				41BDF2812BE6C436004DAEC8 /* MyTransitionAnimation.swift */,
 				41BDF2832BE8353D004DAEC8 /* MySheets.swift */,
+				41BDF2852BE87791004DAEC8 /* MyPopoverView.swift */,
 				410552412B919C8D00A4F2EA /* Assets.xcassets */,
 				410552432B919C8D00A4F2EA /* FirstSwiftUI.entitlements */,
 				410552442B919C8D00A4F2EA /* Preview Content */,
@@ -216,6 +219,7 @@
 			files = (
 				410FC3982BDE988900D568D0 /* MyExtractFunctions.swift in Sources */,
 				4127630D2BB23682001E1034 /* MyImageView.swift in Sources */,
+				41BDF2862BE87791004DAEC8 /* MyPopoverView.swift in Sources */,
 				417746422BD7646900ABD83D /* MySpacer.swift in Sources */,
 				417746482BDB0E2100ABD83D /* MyLazyStackAndScrollView.swift in Sources */,
 				4177463E2BD6E66500ABD83D /* MyStackViews.swift in Sources */,
