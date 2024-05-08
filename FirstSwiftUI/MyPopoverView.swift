@@ -29,7 +29,7 @@ struct MyPopoverView: View {
             
             
             
-            // METHOD NO - 2 - ANIMATION
+            // METHOD NO - 2 - ANIMATION - (Reccomanded)
 //            ZStack {
 //                if showScreen {
 //                    SecondView1(dismissScreen: $showScreen)
@@ -58,6 +58,7 @@ struct SecondView: View {
         ZStack(alignment: .topLeading) {
             //BgLayer
             Color.green.ignoresSafeArea()
+                .navigationBarHidden(true)
             
             //FgLayer
             Button(action: {
